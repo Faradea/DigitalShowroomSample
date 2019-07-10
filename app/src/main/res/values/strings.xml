@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">DigitalShowroomSample</string>
+    <string name="app_name">Catalog</string>
+    <string name="categories_first_item">All products</string>
+    <string name="goto_all_sports">All sports</string>
+    <string name="rating_value">(%1$s)</string>
+    <string name="price_value">%1$s RUR</string>
+    <string name="password_hint">PIN</string>
+    <string name="done">Done</string>
+    <string name="incorrect_pin">Incorrect PIN</string>
+    <string name="cancel">Cancel</string>
+    <string name="snackbar_retry_button">Retry</string>
+    <string name="snackbar_text">Server error</string>
+    <string name="product_benefits_title">Benefits</string>
+    <string name="product_characteristics_title">Technical characteristics</string>
+    <string name="go_back">Back</string>
+    <string name="product_ids" translatable="false">%1$s/%2$s</string>
+    <string name="search_sport" translatable="true">Sport</string>
 </resources>
