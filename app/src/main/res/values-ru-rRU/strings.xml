@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Каталог</string>
+    <string name="categories_first_item">Все товары</string>
+    <string name="goto_all_sports">Все виды спорта</string>
+    <string name="rating_value">(%1$s)</string>
+    <string name="price_value">%1$s руб.</string>
+    <string name="password_hint">PIN-код</string>
+    <string name="done">Ок</string>
+    <string name="incorrect_pin">Неверный PIN-код</string>
+    <string name="cancel">Отмена</string>
+    <string name="snackbar_retry_button">Повторить</string>
+    <string name="snackbar_text">Ошибка получения данных с сервера</string>
+    <string name="product_benefits_title">Преимущества</string>
+    <string name="product_characteristics_title">Технические характеристики</string>
+    <string name="go_back">Назад</string>
+    <string name="search_sport">Вид спорта</string>
+</resources>
